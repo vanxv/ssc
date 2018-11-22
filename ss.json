@@ -1,12 +1,11 @@
 {
- "server":"104.194.86.123",
- "local_address":"127.0.0.1",
- "local_port":1080,
- "port_password":{
- "8891":"bxf",
- "8888":"1121shadowsock",
- },
- "timeout":300,
- "method":"aes-256-cfb",
- "fast_open": false
+    "server": "0.0.0.0",
+    "port_password": {
+        "8891":"bxf",
+        "8888":"1121shadowsock",
+        "8383": "foobar3",
+        "8384": "foobar4"
+    },
+    "timeout": 300,
+    "method": "aes-256-cfb"
 }
