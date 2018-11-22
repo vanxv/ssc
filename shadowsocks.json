@@ -5,7 +5,6 @@
  "port_password":{
  "8891":"bxf",
  "8888":"1121shadowsock",
- "9003":"10003"
  },
  "timeout":300,
  "method":"aes-256-cfb",
