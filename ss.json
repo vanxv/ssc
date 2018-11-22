@@ -3,8 +3,9 @@
     "port_password": {
         "8891":"bxf",
         "8888":"1121shadowsock",
-        "8383": "foobar3",
-        "8384": "foobar4"
+        "8803": "kianhuang001",
+        "8804": "mengqiangzhuo_sh",
+        "8805": "yswangxh",
     },
     "timeout": 300,
     "method": "aes-256-cfb"
